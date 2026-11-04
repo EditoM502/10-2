@@ -9,7 +9,6 @@ public:
     Game(int minValue, int maxValue, int maxAttempts);
     void play(); // Plays the game
     ~Game(); // Destructor
-    void play(); // Plays the game
 
 private:
     InReader reader; // Instance of InReader for handling input

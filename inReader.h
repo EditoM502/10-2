@@ -1,6 +1,6 @@
 #ifndef INREADER_H
 #define INREADER_H
-#include <string>
+#include <string> 
 using namespace std;
 
 class InReader {
